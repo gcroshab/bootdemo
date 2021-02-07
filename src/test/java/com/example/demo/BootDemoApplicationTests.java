@@ -1,3 +1,4 @@
+/*
 package com.example.demo;
 
 import org.junit.Assert;
@@ -17,3 +18,4 @@ public class BootDemoApplicationTests {
 	}
 
 }
+*/
